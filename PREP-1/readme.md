@@ -7,11 +7,14 @@ This repository contains SQL interview questions using the Person and Address ta
 
 ##📌 Table: Person  
 ```plaintext
-
-personId     | INT       | Primary Key  
-firstName    | VARCHAR   |  
-lastName     | VARCHAR   |
-
++-------------+---------+--------------+
+| Column Name | Type    | Description  |
++-------------+---------+--------------+
+| personId    | INT      | Primary Key |  
+| firstName   | VARCHAR  |             |
+| lastName    | VARCHAR  |             |
++------------+-----------+-------------+
+'''
 
 
 ##📌 Table: Address  
