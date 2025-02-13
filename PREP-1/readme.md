@@ -1,11 +1,10 @@
 
-##🚀 Database Schema: Person & Address Tables
+# 🚀 Database Schema: Person & Address Tables
 
 This repository contains SQL interview questions using the Person and Address tables.
 
-📌 Table: Address
 
-# 📌 Table: Address  
+##📌 Table: Address  
 ```plaintext
 +-------------+---------+--------------+
 | Column Name | Type    | Description  |
