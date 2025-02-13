@@ -4,8 +4,10 @@
 ## 🚀 Master SQL Concepts with Real Interview Questions 💡
 
 📢 **Follow me on Github  for more SQL interview prep 
-🔗 [**My  Profile**](📢 **Follow me on Linkedin for more SQL & Data Science content!**  
-🔗 [**My Linkedin Profile**](https://www.linkedin.com/in/bagdatsarikas/)  )  
+
+
+🔗 [**My Github Profile**](https://github.com/bagdatsarikas)  
+
 
 ## **💡 How to Use This Repo**  
 
