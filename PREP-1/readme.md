@@ -14,7 +14,7 @@ This repository contains SQL interview questions using the Person and Address ta
 | firstName   | VARCHAR  |             |
 | lastName    | VARCHAR  |             |
 +------------+-----------+-------------+
-'''
+```
 
 
 ##📌 Table: Address  
