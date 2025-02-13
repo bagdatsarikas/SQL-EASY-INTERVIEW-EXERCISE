@@ -29,7 +29,7 @@ This repository contains SQL interview questions using the Person and Address ta
 | emailAddress| VARCHAR |              |
 +-------------+---------+--------------+
 
-
+```
 
 
 ```plaintext
